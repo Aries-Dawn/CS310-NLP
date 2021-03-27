@@ -1,0 +1,1 @@
+python assignment.py $1 $2
